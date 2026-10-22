@@ -1,0 +1,11 @@
+name: dart_basics_novitskyi
+description: Практична робота з основ Dart.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0

@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+build/
+pubspec.lock
+coverage/
+output/
+*.iml
+.idea/
+.vscode/
+.DS_Store
