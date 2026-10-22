@@ -1,4 +1,4 @@
-# dart-basics-novitskyi
+# practice-04
 
 Практична робота з основ Dart: змінні, функції, ООП (University Management System), колекції, async + файли.
 
@@ -11,7 +11,7 @@
 ## Встановлення проєкту
 ```bash
 git clone https://github.com/<username>/dart-basics-novitskyi.git
-cd dart-basics-novitskyi
+cd practice-04
 dart pub get
 ```
 
